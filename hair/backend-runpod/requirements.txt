@@ -1,0 +1,6 @@
+flask
+--ignore-installed flask
+flask_cors
+diffusers==0.11.1
+transformers
+accelerate
